@@ -4,5 +4,11 @@
     "repository": "android_kernel_asus_grouper",
     "target_path": "kernel/asus/grouper",
     "revision": "cm-12.0"
+  },
+  { 
+ 	"remote": "th",
+    "repository": "android_vendor_asus",
+    "target_path": "vendor/asus",
+    "revision": "lollipop"
   }
 ]
