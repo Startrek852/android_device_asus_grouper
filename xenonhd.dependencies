@@ -19,6 +19,12 @@
   },
   {
    "remote": "gh",
+   "repository":  "Team-OctOS/proprietary_vendor_elan",
+   "target_path": "vendor/elan",
+   "revision": "oct-mm"
+   },
+  {
+   "remote": "gh",
    "repository":  "Grouper-AOSP/proprietary_vendor_invensense",
    "target_path": "vendor/invensense",
    "revision": "aosp-6.0"
